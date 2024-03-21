@@ -1,1 +1,1 @@
-const c = @cImport(@cInclude("lodepng.h"));
+pub const c = @cImport(@cInclude("lodepng.h"));
